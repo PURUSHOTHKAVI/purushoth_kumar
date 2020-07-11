@@ -10,7 +10,7 @@ mapk2012kvi@gmail.com
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![PicsArt_11-11-11.17.15](src)
+[Link](url) and ![PicsArt_11-11-11.17.15](jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
