@@ -1,28 +1,16 @@
-**BOLD** 
-LATHISH
-Hi I'm Purushoth kumar, I'm Doing MD program in UNIVERSITY OF VISAYAS GULLAS COLLEGE OF MEDICINE.
+### LATHISH
+Hi I'm Lathish kumar, I'm Doing MD program in UNIVERSITY OF VISAYAS GULLAS COLLEGE OF MEDICINE.
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+# EDUCATION
+MD
+## SALARY
+10 LAKHS PER YEAR
+### EMAIL
+mapk2012kvi@gmail.com
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![PicsArt_11-11-11.17.15](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
