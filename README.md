@@ -1,24 +1,40 @@
-### LATHISH
-Hi I'm Lathish kumar, I'm Doing MD program in UNIVERSITY OF VISAYAS GULLAS COLLEGE OF MEDICINE.
+# Software Developer Folio ⚡️ 
 
-# EDUCATION
-MD
-## SALARY
-10 LAKHS PER YEAR
-### EMAIL
-mapk2012kvi@gmail.com
+## A clean, beautiful and responsive portfolio template for Developers!
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![PicsArt_11-11-11.17.15](jpg)
-```
+<p align="center"> 
+  <kbd>
+    
+</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+Just change `src/portfolio.js` to get your personal portfolio . Feel free to use it as-is or customize it as much as you want.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PURUSHOTHKAVI/purushoth_kumar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/saadpasta/developerFolio/issues).
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you created something awesome and want to contribute then feel free to open Please don't hesitate to open an [pull request](https://github.com/saadpasta/developerFolio/pulls).
+
+
+## Sections 
+✔️ Summary and About me\
+oorla eruka ella ponnunglayum ushar pandrathu
+
+✔️ Skills\
+Nalla ool poduvathu
+
+✔️ Work Experience\
+Na oru matter uh
+
+✔️ Contact me\
+100/night
+
+
+## For the Future 
+
+- Move to Gatsby
+
+- Enable Dark Mode
+---
+
